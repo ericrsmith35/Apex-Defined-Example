@@ -1,5 +1,10 @@
 # Apex-Defined Example
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 Sample code and Flow for using Apex-Defined objects with my DatatableV2 LWC for Flows
 
 
