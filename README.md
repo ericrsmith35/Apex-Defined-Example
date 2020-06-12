@@ -16,6 +16,5 @@ Sample code and Flow for using Apex-Defined objects with my DatatableV2 LWC for 
 
 
 This code requires that datatableV2 be installed
-
 https://unofficialsf.com/datatablev2-lightning-web-component-for-flow-screens/
 
