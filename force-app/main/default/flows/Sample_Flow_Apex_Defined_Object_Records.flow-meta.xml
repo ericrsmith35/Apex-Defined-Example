@@ -181,7 +181,7 @@
                 <typeName>T</typeName>
                 <typeValue>Account</typeValue>
             </dataTypeMappings>
-            <extensionName>c:datatableV2</extensionName>
+            <extensionName>c:datatable</extensionName>
             <fieldType>ComponentInstance</fieldType>
             <inputParameters>
                 <name>isUserDefinedObject</name>
@@ -233,7 +233,7 @@
                 <typeName>T</typeName>
                 <typeValue>Account</typeValue>
             </dataTypeMappings>
-            <extensionName>c:datatableV2</extensionName>
+            <extensionName>c:datatable</extensionName>
             <fieldType>ComponentInstance</fieldType>
             <inputParameters>
                 <name>isUserDefinedObject</name>
