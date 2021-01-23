@@ -18,7 +18,7 @@ Read this Post for an explation of this example
 https://ericsplayground.wordpress.com/how-to-use-an-apex-defined-object-with-my-datatable-flow-component/
 
 
-This code requires that Datatable be installed
+This code requires that Datatable (v3) be installed
 
 https://unofficialsf.com/datatable-lightning-web-component-for-flow-screens-2/
 
